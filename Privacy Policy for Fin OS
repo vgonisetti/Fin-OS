@@ -1,0 +1,17 @@
+1. Our Core Philosophy: Offline-First Privacy
+At Fin OS, we believe your financial data belongs strictly to you. Unlike traditional financial apps that scrape your data and sell it to advertisers, Fin OS is built on an Offline-First Architecture. This means your transaction history, account balances, and AI analysis are processed locally on your device.
+
+2. Data Collection and Storage
+
+    Local Data: All your financial inputs, CSV imports, and custom categories are stored securely within your device's local storage.
+
+    Authentication & Cloud Backup: If you choose to create an account to back up your data, we use industry-standard secure cloud services (like Firebase) solely for restoring your data if you lose your device. We do not read, mine, or sell this data.
+
+3. Biometric Security
+Fin OS utilizes your device’s native biometric hardware (Face ID / Fingerprint / PIN) to secure the app. We do not collect, transmit, or have access to your biometric data. The authentication happens entirely within your phone's operating system.
+
+4. Push Notifications
+Our "Smart Nudge" engine runs entirely locally. The app scans your upcoming bills and schedules alerts directly on your phone. No external servers are pinged to send you these reminders.
+
+5. Contact Us
+If you have questions about how we protect your data, please contact us at: vgonisetti@gmail.com.
